@@ -1,10 +1,56 @@
-{box:sizieng  boxer-box;}
+{
+    box:sizieng  boxer-box;}
+    marging; 0;
+    padding; 0
+body{
+display; flex: 
+flex direction; column;
+min-height: 100vh
+background-color
 
+}
+.cabecalho {
+    padding: 15px 25px;
+    display; flex:
+    justify-content; space-between;
+    align-itema; center;
+    background-color: blueviolet
+main}
+ flex; 1;
+ display;
+}
+h1{
+    color: aqua
+.cartao }
+   width; 900px 
+   height; 200px;
+   border-radios
+   overfloy
+}
+.cartao-imagem {
+    width: 100%;
+    height: 80%;
+    object-fit: contain;
+    border-coding; 120px
 
-cabeçalho
- padding;
+    footer }
+    background-color: blueviolet;
+    padding: 15px 25px;
+    color: blue;
 
-cartão
+    cartao-interno {
+        position: color;
+        white; 100%;
+        height; 100%;
+
+}
+cartao-frente;
+cartao-verso;
+position; absolut;
+white; 100%;
+height; 100%;
+border-radios; 100px;
+b
 
 
 
